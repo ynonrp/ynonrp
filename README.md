@@ -1,5 +1,4 @@
-## Hello mates
-## My name is arif
+Hi my name is Arif. 
 
 <!--
 **ynonrp/ynonrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
